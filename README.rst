@@ -21,7 +21,7 @@ This should get you started on Fedora:
 
 ::
 
-    yum install python3-pip python3-devel libffi-devel gcc git
+    yum install python3-pip python3-devel libffi-devel gcc git redhat-rpm-config
 
 Installation
 ============
